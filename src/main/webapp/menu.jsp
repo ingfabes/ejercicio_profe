@@ -11,7 +11,7 @@
 <%
 String nombre= request.getParameter("nom");
 %>
-<h2>Bienvenido <%=nombre%></h2>
+<h2>Bienvenido al menú principal <%=nombre%></h2>
 <ul>
 <li>Clientes</li>
 <li>Proveedores</li>
